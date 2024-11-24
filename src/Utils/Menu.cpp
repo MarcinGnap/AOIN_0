@@ -130,7 +130,7 @@ void Menu::chooseTestsType()
             break;
 
             case 6:{
-                std:: cout << "Random graph generation";
+                std:: cout << "Random graph generation - commented";
 
             // Loader loader;
             // loader.createRandomGraph(10, 15);
